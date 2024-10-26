@@ -1,6 +1,8 @@
 # swapi
 
-This project uses Quarkus, the Supersonic Subatomic Java Framework.
+This project uses :
+- in back Quarkus, the Supersonic Subatomic Java Framework in version 3.15.1
+- in front React with node-version=23.1.0 and npm-version=10.9.0
 
 If you want to learn more about Quarkus, please visit its website: <https://quarkus.io/>.
 
@@ -56,16 +58,7 @@ If you want to learn more about building native executables, please consult <htt
 ## Related Guides
 
 - REST ([guide](https://quarkus.io/guides/rest)): A Jakarta REST implementation utilizing build time processing and Vert.x. This extension is not compatible with the quarkus-resteasy extension, or any of the extensions that depend on it.
-- Qute Web ([guide](https://quarkiverse.github.io/quarkiverse-docs/quarkus-qute-web/dev/index.html)): Serves Qute templates directly over HTTP.
 - REST Jackson ([guide](https://quarkus.io/guides/rest#json-serialisation)): Jackson serialization support for Quarkus REST. This extension is not compatible with the quarkus-resteasy extension, or any of the extensions that depend on it
-
-## Provided Code
-
-### Qute Web
-
-Create your web page using Quarkus and Qute
-
-[Related guide section...](https://quarkus.io/guides/qute#type-safe-templates)
 
 ### REST
 

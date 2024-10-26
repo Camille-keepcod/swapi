@@ -1,0 +1,64 @@
+body {
+  background-color: #000000 !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  color: white;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+
+  }
+}
+
+.App-header {
+  text-align: center;
+  font-size: calc(10px + 2vmin);
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+#root {
+  width: 80%;
+}
+
+ul {
+  margin-left: 4%;
+  margin-right: 8%;
+}
+
+.opening-crawl {
+  margin-left: 6%;
+  margin-right: 8%;
+  text-align: justify;
+}
+
+.accordion {
+  --bs-accordion-btn-focus-box-shadow: 0 0 0 0.25rem #ffc10700 !important;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: #ffe81f !important;
+}
+
+#accordion_search_bar_container {
+  position: relative;
+  #accordion_search_bar {
+    display: block;
+    margin: 10px auto;
+    width: 100%;
+    padding: 7px 10px;
+    border: 1px solid #cacaca;
+    border-radius: 25px;
+    outline: 0;
+  }
+}
