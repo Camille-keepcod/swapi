@@ -39,12 +39,13 @@
             <artifactId>quarkus-rest-client-jackson</artifactId>
         </dependency>
         <dependency>
-            <groupId>io.quarkiverse.qute.web</groupId>
-            <artifactId>quarkus-qute-web</artifactId>
-        </dependency>
-        <dependency>
             <groupId>io.quarkus</groupId>
             <artifactId>quarkus-rest-jackson</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>io.quarkiverse.quinoa</groupId>
+            <artifactId>quarkus-quinoa</artifactId>
+            <version>2.5.0</version>
         </dependency>
         <dependency>
             <groupId>io.quarkus</groupId>
@@ -114,6 +115,23 @@
                         <java.util.logging.manager>org.jboss.logmanager.LogManager</java.util.logging.manager>
                         <maven.home>${maven.home}</maven.home>
                     </systemPropertyVariables>
+                </configuration>
+            </plugin>
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-compiler-plugin</artifactId>
+                <version>3.8.1</version>
+                <configuration>
+                    <source>1.8</source> <!-- depending on your project -->
+                    <target>1.8</target> <!-- depending on your project -->
+                    <annotationProcessorPaths>
+                        <path>
+                            <groupId>org.mapstruct</groupId>
+                            <artifactId>mapstruct-processor</artifactId>
+                            <version>${org.mapstruct.version}</version>
+                        </path>
+                        <!-- other annotation processors -->
+                    </annotationProcessorPaths>
                 </configuration>
             </plugin>
         </plugins>
