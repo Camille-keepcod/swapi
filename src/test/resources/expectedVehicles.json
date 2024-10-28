@@ -1,0 +1,1041 @@
+{
+  "1": [
+    {
+      "name": "Armored Assault Tank",
+      "model": "Armoured Assault Tank",
+      "manufacturer": "Baktoid Armor Workshop",
+      "costInCredits": "unknown",
+      "length": "9.75",
+      "maxAtmospheringSpeed": "55",
+      "crew": "4",
+      "passengers": "6",
+      "cargoCapacity": "unknown",
+      "consumables": "unknown",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:13:29.799",
+      "edited": "2014-12-20T22:30:21.703",
+      "url": "https://swapi.dev/api/vehicles/35/"
+    },
+    {
+      "name": "Vulture Droid",
+      "model": "Vulture-class droid starfighter",
+      "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
+      "costInCredits": "unknown",
+      "length": "3.5",
+      "maxAtmospheringSpeed": "1200",
+      "crew": "0",
+      "passengers": "0",
+      "cargoCapacity": "0",
+      "consumables": "none",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:09:53.584",
+      "edited": "2014-12-20T22:30:21.697",
+      "url": "https://swapi.dev/api/vehicles/33/"
+    },
+    {
+      "name": "Sith speeder",
+      "model": "FC-20 speeder bike",
+      "manufacturer": "Razalon",
+      "costInCredits": "4000",
+      "length": "1.5",
+      "maxAtmospheringSpeed": "180",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "2",
+      "consumables": "unknown",
+      "vehicleClass": "speeder",
+      "pilots": [
+        "https://swapi.dev/api/people/44/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-20T11:09:56.095",
+      "edited": "2014-12-20T22:30:21.712",
+      "url": "https://swapi.dev/api/vehicles/42/"
+    },
+    {
+      "name": "C-9979 landing craft",
+      "model": "C-9979 landing craft",
+      "manufacturer": "Haor Chall Engineering",
+      "costInCredits": "200000",
+      "length": "210",
+      "maxAtmospheringSpeed": "587",
+      "crew": "140",
+      "passengers": "284",
+      "cargoCapacity": "1800000",
+      "consumables": "1 day",
+      "vehicleClass": "landing craft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:20:36.373",
+      "edited": "2014-12-20T22:30:21.707",
+      "url": "https://swapi.dev/api/vehicles/37/"
+    },
+    {
+      "name": "Tribubble bongo",
+      "model": "Tribubble bongo",
+      "manufacturer": "Otoh Gunga Bongameken Cooperative",
+      "costInCredits": "unknown",
+      "length": "15",
+      "maxAtmospheringSpeed": "85",
+      "crew": "1",
+      "passengers": "2",
+      "cargoCapacity": "1600",
+      "consumables": "unknown",
+      "vehicleClass": "submarine",
+      "pilots": [
+        "https://swapi.dev/api/people/32/",
+        "https://swapi.dev/api/people/10/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:37:37.924",
+      "edited": "2014-12-20T22:30:21.71",
+      "url": "https://swapi.dev/api/vehicles/38/"
+    },
+    {
+      "name": "Multi-Troop Transport",
+      "model": "Multi-Troop Transport",
+      "manufacturer": "Baktoid Armor Workshop",
+      "costInCredits": "138000",
+      "length": "31",
+      "maxAtmospheringSpeed": "35",
+      "crew": "4",
+      "passengers": "112",
+      "cargoCapacity": "12000",
+      "consumables": "unknown",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:12:04.4",
+      "edited": "2014-12-20T22:30:21.7",
+      "url": "https://swapi.dev/api/vehicles/34/"
+    },
+    {
+      "name": "Single Trooper Aerial Platform",
+      "model": "Single Trooper Aerial Platform",
+      "manufacturer": "Baktoid Armor Workshop",
+      "costInCredits": "2500",
+      "length": "2",
+      "maxAtmospheringSpeed": "400",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "none",
+      "consumables": "none",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:15:09.511",
+      "edited": "2014-12-20T22:30:21.705",
+      "url": "https://swapi.dev/api/vehicles/36/"
+    }
+  ],
+  "2": [
+    {
+      "name": "XJ-6 airspeeder",
+      "model": "XJ-6 airspeeder",
+      "manufacturer": "Narglatch AirTech prefabricated kit",
+      "costInCredits": "unknown",
+      "length": "6.23",
+      "maxAtmospheringSpeed": "720",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "unknown",
+      "consumables": "unknown",
+      "vehicleClass": "airspeeder",
+      "pilots": [
+        "https://swapi.dev/api/people/11/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T18:19:19.991",
+      "edited": "2014-12-20T22:30:21.719",
+      "url": "https://swapi.dev/api/vehicles/46/"
+    },
+    {
+      "name": "LAAT/c",
+      "model": "Low Altitude Assault Transport/carrier",
+      "manufacturer": "Rothana Heavy Engineering",
+      "costInCredits": "unknown",
+      "length": "28.82",
+      "maxAtmospheringSpeed": "620",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "40000",
+      "consumables": "unknown",
+      "vehicleClass": "gunship",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:02:46.802",
+      "edited": "2014-12-20T22:30:21.725",
+      "url": "https://swapi.dev/api/vehicles/51/"
+    },
+    {
+      "name": "LAAT/i",
+      "model": "Low Altitude Assault Transport/infrantry",
+      "manufacturer": "Rothana Heavy Engineering",
+      "costInCredits": "unknown",
+      "length": "17.4",
+      "maxAtmospheringSpeed": "620",
+      "crew": "6",
+      "passengers": "30",
+      "cargoCapacity": "170",
+      "consumables": "unknown",
+      "vehicleClass": "gunship",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:01:21.014",
+      "edited": "2014-12-20T22:30:21.723",
+      "url": "https://swapi.dev/api/vehicles/50/"
+    },
+    {
+      "name": "Sand Crawler",
+      "model": "Digger Crawler",
+      "manufacturer": "Corellia Mining Corporation",
+      "costInCredits": "150000",
+      "length": "36.8 ",
+      "maxAtmospheringSpeed": "30",
+      "crew": "46",
+      "passengers": "30",
+      "cargoCapacity": "50000",
+      "consumables": "2 months",
+      "vehicleClass": "wheeled",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-10T16:36:25.724",
+      "edited": "2014-12-20T22:30:21.661",
+      "url": "https://swapi.dev/api/vehicles/4/"
+    },
+    {
+      "name": "Neimoidian shuttle",
+      "model": "Sheathipede-class transport shuttle",
+      "manufacturer": "Haor Chall Engineering",
+      "costInCredits": "unknown",
+      "length": "20",
+      "maxAtmospheringSpeed": "880",
+      "crew": "2",
+      "passengers": "6",
+      "cargoCapacity": "1000",
+      "consumables": "7 days",
+      "vehicleClass": "transport",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:25:44.912",
+      "edited": "2014-12-20T22:30:21.739",
+      "url": "https://swapi.dev/api/vehicles/56/"
+    },
+    {
+      "name": "Flitknot speeder",
+      "model": "Flitknot speeder",
+      "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+      "costInCredits": "8000",
+      "length": "2",
+      "maxAtmospheringSpeed": "634",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "unknown",
+      "consumables": "unknown",
+      "vehicleClass": "speeder",
+      "pilots": [
+        "https://swapi.dev/api/people/67/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:15:20.312",
+      "edited": "2014-12-20T22:30:21.735",
+      "url": "https://swapi.dev/api/vehicles/55/"
+    },
+    {
+      "name": "Koro-2 Exodrive airspeeder",
+      "model": "Koro-2 Exodrive airspeeder",
+      "manufacturer": "Desler Gizh Outworld Mobility Corporation",
+      "costInCredits": "unknown",
+      "length": "6.6",
+      "maxAtmospheringSpeed": "800",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "80",
+      "consumables": "unknown",
+      "vehicleClass": "airspeeder",
+      "pilots": [
+        "https://swapi.dev/api/people/70/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T18:17:33.526",
+      "edited": "2014-12-20T22:30:21.716",
+      "url": "https://swapi.dev/api/vehicles/45/"
+    },
+    {
+      "name": "SPHA",
+      "model": "Self-Propelled Heavy Artillery",
+      "manufacturer": "Rothana Heavy Engineering",
+      "costInCredits": "unknown",
+      "length": "140",
+      "maxAtmospheringSpeed": "35",
+      "crew": "25",
+      "passengers": "30",
+      "cargoCapacity": "500",
+      "consumables": "7 days",
+      "vehicleClass": "walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:12:32.315",
+      "edited": "2014-12-20T22:30:21.731",
+      "url": "https://swapi.dev/api/vehicles/54/"
+    },
+    {
+      "name": "Geonosian starfighter",
+      "model": "Nantex-class territorial defense",
+      "manufacturer": "Huppla Pasa Tisc Shipwrights Collective",
+      "costInCredits": "unknown",
+      "length": "9.8",
+      "maxAtmospheringSpeed": "20000",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "unknown",
+      "consumables": "unknown",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:34:12.541",
+      "edited": "2014-12-20T22:30:21.742",
+      "url": "https://swapi.dev/api/vehicles/57/"
+    },
+    {
+      "name": "Zephyr-G swoop bike",
+      "model": "Zephyr-G swoop bike",
+      "manufacturer": "Mobquet Swoops and Speeders",
+      "costInCredits": "5750",
+      "length": "3.68",
+      "maxAtmospheringSpeed": "350",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "200",
+      "consumables": "none",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [
+        "https://swapi.dev/api/people/11/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T17:24:16.026",
+      "edited": "2014-12-20T22:30:21.714",
+      "url": "https://swapi.dev/api/vehicles/44/"
+    },
+    {
+      "name": "AT-TE",
+      "model": "All Terrain Tactical Enforcer",
+      "manufacturer": "Rothana Heavy Engineering, Kuat Drive Yards",
+      "costInCredits": "unknown",
+      "length": "13.2",
+      "maxAtmospheringSpeed": "60",
+      "crew": "6",
+      "passengers": "36",
+      "cargoCapacity": "10000",
+      "consumables": "21 days",
+      "vehicleClass": "walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:10:07.56",
+      "edited": "2014-12-20T22:30:21.728",
+      "url": "https://swapi.dev/api/vehicles/53/"
+    }
+  ],
+  "3": [
+    {
+      "name": "Corporate Alliance tank droid",
+      "model": "NR-N99 Persuader-class droid enforcer",
+      "manufacturer": "Techno Union",
+      "costInCredits": "49000",
+      "length": "10.96",
+      "maxAtmospheringSpeed": "100",
+      "crew": "0",
+      "passengers": "4",
+      "cargoCapacity": "none",
+      "consumables": "none",
+      "vehicleClass": "droid tank",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:26:55.522",
+      "edited": "2014-12-20T22:30:21.765",
+      "url": "https://swapi.dev/api/vehicles/72/"
+    },
+    {
+      "name": "Neimoidian shuttle",
+      "model": "Sheathipede-class transport shuttle",
+      "manufacturer": "Haor Chall Engineering",
+      "costInCredits": "unknown",
+      "length": "20",
+      "maxAtmospheringSpeed": "880",
+      "crew": "2",
+      "passengers": "6",
+      "cargoCapacity": "1000",
+      "consumables": "7 days",
+      "vehicleClass": "transport",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:25:44.912",
+      "edited": "2014-12-20T22:30:21.739",
+      "url": "https://swapi.dev/api/vehicles/56/"
+    },
+    {
+      "name": "Raddaugh Gnasp fluttercraft",
+      "model": "Raddaugh Gnasp fluttercraft",
+      "manufacturer": "Appazanna Engineering Works",
+      "costInCredits": "14750",
+      "length": "7",
+      "maxAtmospheringSpeed": "310",
+      "crew": "2",
+      "passengers": "0",
+      "cargoCapacity": "20",
+      "consumables": "none",
+      "vehicleClass": "air speeder",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:21:55.648",
+      "edited": "2014-12-20T22:30:21.759",
+      "url": "https://swapi.dev/api/vehicles/70/"
+    },
+    {
+      "name": "Clone turbo tank",
+      "model": "HAVw A6 Juggernaut",
+      "manufacturer": "Kuat Drive Yards",
+      "costInCredits": "350000",
+      "length": "49.4",
+      "maxAtmospheringSpeed": "160",
+      "crew": "20",
+      "passengers": "300",
+      "cargoCapacity": "30000",
+      "consumables": "20 days",
+      "vehicleClass": "wheeled walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:24:45.587",
+      "edited": "2014-12-20T22:30:21.762",
+      "url": "https://swapi.dev/api/vehicles/71/"
+    },
+    {
+      "name": "AT-TE",
+      "model": "All Terrain Tactical Enforcer",
+      "manufacturer": "Rothana Heavy Engineering, Kuat Drive Yards",
+      "costInCredits": "unknown",
+      "length": "13.2",
+      "maxAtmospheringSpeed": "60",
+      "crew": "6",
+      "passengers": "36",
+      "cargoCapacity": "10000",
+      "consumables": "21 days",
+      "vehicleClass": "walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:10:07.56",
+      "edited": "2014-12-20T22:30:21.728",
+      "url": "https://swapi.dev/api/vehicles/53/"
+    },
+    {
+      "name": "Emergency Firespeeder",
+      "model": "Fire suppression speeder",
+      "manufacturer": "unknown",
+      "costInCredits": "unknown",
+      "length": "unknown",
+      "maxAtmospheringSpeed": "unknown",
+      "crew": "2",
+      "passengers": "unknown",
+      "cargoCapacity": "unknown",
+      "consumables": "unknown",
+      "vehicleClass": "fire suppression ship",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T20:50:58.559",
+      "edited": "2014-12-20T22:30:21.749",
+      "url": "https://swapi.dev/api/vehicles/62/"
+    },
+    {
+      "name": "AT-RT",
+      "model": "All Terrain Recon Transport",
+      "manufacturer": "Kuat Drive Yards",
+      "costInCredits": "40000",
+      "length": "3.2",
+      "maxAtmospheringSpeed": "90",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "20",
+      "consumables": "1 day",
+      "vehicleClass": "walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:47:49.189",
+      "edited": "2014-12-20T22:30:21.772",
+      "url": "https://swapi.dev/api/vehicles/76/"
+    },
+    {
+      "name": "Droid gunship",
+      "model": "HMP droid gunship",
+      "manufacturer": "Baktoid Fleet Ordnance, Haor Chall Engineering",
+      "costInCredits": "60000",
+      "length": "12.3",
+      "maxAtmospheringSpeed": "820",
+      "crew": "0",
+      "passengers": "0",
+      "cargoCapacity": "0",
+      "consumables": "none",
+      "vehicleClass": "airspeeder",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:32:05.687",
+      "edited": "2014-12-20T22:30:21.768",
+      "url": "https://swapi.dev/api/vehicles/73/"
+    },
+    {
+      "name": "LAAT/i",
+      "model": "Low Altitude Assault Transport/infrantry",
+      "manufacturer": "Rothana Heavy Engineering",
+      "costInCredits": "unknown",
+      "length": "17.4",
+      "maxAtmospheringSpeed": "620",
+      "crew": "6",
+      "passengers": "30",
+      "cargoCapacity": "170",
+      "consumables": "unknown",
+      "vehicleClass": "gunship",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-20T19:01:21.014",
+      "edited": "2014-12-20T22:30:21.723",
+      "url": "https://swapi.dev/api/vehicles/50/"
+    },
+    {
+      "name": "Vulture Droid",
+      "model": "Vulture-class droid starfighter",
+      "manufacturer": "Haor Chall Engineering, Baktoid Armor Workshop",
+      "costInCredits": "unknown",
+      "length": "3.5",
+      "maxAtmospheringSpeed": "1200",
+      "crew": "0",
+      "passengers": "0",
+      "cargoCapacity": "0",
+      "consumables": "none",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/",
+        "https://swapi.dev/api/films/4/"
+      ],
+      "created": "2014-12-19T18:09:53.584",
+      "edited": "2014-12-20T22:30:21.697",
+      "url": "https://swapi.dev/api/vehicles/33/"
+    },
+    {
+      "name": "Oevvaor jet catamaran",
+      "model": "Oevvaor jet catamaran",
+      "manufacturer": "Appazanna Engineering Works",
+      "costInCredits": "12125",
+      "length": "15.1",
+      "maxAtmospheringSpeed": "420",
+      "crew": "2",
+      "passengers": "2",
+      "cargoCapacity": "50",
+      "consumables": "3 days",
+      "vehicleClass": "airspeeder",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:20:53.931",
+      "edited": "2014-12-20T22:30:21.756",
+      "url": "https://swapi.dev/api/vehicles/69/"
+    },
+    {
+      "name": "Droid tri-fighter",
+      "model": "tri-fighter",
+      "manufacturer": "Colla Designs, Phlac-Arphocc Automata Industries",
+      "costInCredits": "20000",
+      "length": "5.4",
+      "maxAtmospheringSpeed": "1180",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "0",
+      "consumables": "none",
+      "vehicleClass": "droid starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T21:05:19.992",
+      "edited": "2014-12-20T22:30:21.752",
+      "url": "https://swapi.dev/api/vehicles/67/"
+    },
+    {
+      "name": "Tsmeu-6 personal wheel bike",
+      "model": "Tsmeu-6 personal wheel bike",
+      "manufacturer": "Z-Gomot Ternbuell Guppat Corporation",
+      "costInCredits": "15000",
+      "length": "3.5",
+      "maxAtmospheringSpeed": "330",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "10",
+      "consumables": "none",
+      "vehicleClass": "wheeled walker",
+      "pilots": [
+        "https://swapi.dev/api/people/79/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/6/"
+      ],
+      "created": "2014-12-20T20:43:54.87",
+      "edited": "2014-12-20T22:30:21.745",
+      "url": "https://swapi.dev/api/vehicles/60/"
+    }
+  ],
+  "4": [
+    {
+      "name": "TIE/LN starfighter",
+      "model": "Twin Ion Engine/Ln Starfighter",
+      "manufacturer": "Sienar Fleet Systems",
+      "costInCredits": "unknown",
+      "length": "6.4",
+      "maxAtmospheringSpeed": "1200",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "65",
+      "consumables": "2 days",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-10T17:33:52.86",
+      "edited": "2014-12-20T22:30:21.67",
+      "url": "https://swapi.dev/api/vehicles/8/"
+    },
+    {
+      "name": "Sand Crawler",
+      "model": "Digger Crawler",
+      "manufacturer": "Corellia Mining Corporation",
+      "costInCredits": "150000",
+      "length": "36.8 ",
+      "maxAtmospheringSpeed": "30",
+      "crew": "46",
+      "passengers": "30",
+      "cargoCapacity": "50000",
+      "consumables": "2 months",
+      "vehicleClass": "wheeled",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/5/"
+      ],
+      "created": "2014-12-10T16:36:25.724",
+      "edited": "2014-12-20T22:30:21.661",
+      "url": "https://swapi.dev/api/vehicles/4/"
+    },
+    {
+      "name": "T-16 skyhopper",
+      "model": "T-16 skyhopper",
+      "manufacturer": "Incom Corporation",
+      "costInCredits": "14500",
+      "length": "10.4 ",
+      "maxAtmospheringSpeed": "1200",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "50",
+      "consumables": "0",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/"
+      ],
+      "created": "2014-12-10T17:01:52.434",
+      "edited": "2014-12-20T22:30:21.665",
+      "url": "https://swapi.dev/api/vehicles/6/"
+    },
+    {
+      "name": "X-34 landspeeder",
+      "model": "X-34 landspeeder",
+      "manufacturer": "SoroSuub Corporation",
+      "costInCredits": "10550",
+      "length": "3.4 ",
+      "maxAtmospheringSpeed": "250",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "5",
+      "consumables": "unknown",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/"
+      ],
+      "created": "2014-12-10T17:13:52.586",
+      "edited": "2014-12-20T22:30:21.668",
+      "url": "https://swapi.dev/api/vehicles/7/"
+    }
+  ],
+  "5": [
+    {
+      "name": "Snowspeeder",
+      "model": "t-47 airspeeder",
+      "manufacturer": "Incom corporation",
+      "costInCredits": "unknown",
+      "length": "4.5",
+      "maxAtmospheringSpeed": "650",
+      "crew": "2",
+      "passengers": "0",
+      "cargoCapacity": "10",
+      "consumables": "none",
+      "vehicleClass": "airspeeder",
+      "pilots": [
+        "https://swapi.dev/api/people/18/",
+        "https://swapi.dev/api/people/1/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:22:12",
+      "edited": "2014-12-20T22:30:21.672",
+      "url": "https://swapi.dev/api/vehicles/14/"
+    },
+    {
+      "name": "Storm IV Twin-Pod cloud car",
+      "model": "Storm IV Twin-Pod",
+      "manufacturer": "Bespin Motors",
+      "costInCredits": "75000",
+      "length": "7",
+      "maxAtmospheringSpeed": "1500",
+      "crew": "2",
+      "passengers": "0",
+      "cargoCapacity": "10",
+      "consumables": "1 day",
+      "vehicleClass": "repulsorcraft",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:58:50.53",
+      "edited": "2014-12-20T22:30:21.681",
+      "url": "https://swapi.dev/api/vehicles/20/"
+    },
+    {
+      "name": "TIE/LN starfighter",
+      "model": "Twin Ion Engine/Ln Starfighter",
+      "manufacturer": "Sienar Fleet Systems",
+      "costInCredits": "unknown",
+      "length": "6.4",
+      "maxAtmospheringSpeed": "1200",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "65",
+      "consumables": "2 days",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-10T17:33:52.86",
+      "edited": "2014-12-20T22:30:21.67",
+      "url": "https://swapi.dev/api/vehicles/8/"
+    },
+    {
+      "name": "TIE bomber",
+      "model": "TIE/sa bomber",
+      "manufacturer": "Sienar Fleet Systems",
+      "costInCredits": "unknown",
+      "length": "7.8",
+      "maxAtmospheringSpeed": "850",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "none",
+      "consumables": "2 days",
+      "vehicleClass": "space/planetary bomber",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:33:15.838",
+      "edited": "2014-12-20T22:30:21.675",
+      "url": "https://swapi.dev/api/vehicles/16/"
+    },
+    {
+      "name": "AT-AT",
+      "model": "All Terrain Armored Transport",
+      "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+      "costInCredits": "unknown",
+      "length": "20",
+      "maxAtmospheringSpeed": "60",
+      "crew": "5",
+      "passengers": "40",
+      "cargoCapacity": "1000",
+      "consumables": "unknown",
+      "vehicleClass": "assault walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:38:25.937",
+      "edited": "2014-12-20T22:30:21.677",
+      "url": "https://swapi.dev/api/vehicles/18/"
+    },
+    {
+      "name": "AT-ST",
+      "model": "All Terrain Scout Transport",
+      "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+      "costInCredits": "unknown",
+      "length": "2",
+      "maxAtmospheringSpeed": "90",
+      "crew": "2",
+      "passengers": "0",
+      "cargoCapacity": "200",
+      "consumables": "none",
+      "vehicleClass": "walker",
+      "pilots": [
+        "https://swapi.dev/api/people/13/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:46:42.384",
+      "edited": "2014-12-20T22:30:21.679",
+      "url": "https://swapi.dev/api/vehicles/19/"
+    }
+  ],
+  "6": [
+    {
+      "name": "Bantha-II cargo skiff",
+      "model": "Bantha-II",
+      "manufacturer": "Ubrikkian Industries",
+      "costInCredits": "8000",
+      "length": "9.5",
+      "maxAtmospheringSpeed": "250",
+      "crew": "5",
+      "passengers": "16",
+      "cargoCapacity": "135000",
+      "consumables": "1 day",
+      "vehicleClass": "repulsorcraft cargo skiff",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/"
+      ],
+      "created": "2014-12-18T11:48:03.208",
+      "edited": "2014-12-20T22:30:21.688",
+      "url": "https://swapi.dev/api/vehicles/25/"
+    },
+    {
+      "name": "TIE/LN starfighter",
+      "model": "Twin Ion Engine/Ln Starfighter",
+      "manufacturer": "Sienar Fleet Systems",
+      "costInCredits": "unknown",
+      "length": "6.4",
+      "maxAtmospheringSpeed": "1200",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "65",
+      "consumables": "2 days",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/1/",
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-10T17:33:52.86",
+      "edited": "2014-12-20T22:30:21.67",
+      "url": "https://swapi.dev/api/vehicles/8/"
+    },
+    {
+      "name": "Sail barge",
+      "model": "Modified Luxury Sail Barge",
+      "manufacturer": "Ubrikkian Industries Custom Vehicle Division",
+      "costInCredits": "285000",
+      "length": "30",
+      "maxAtmospheringSpeed": "100",
+      "crew": "26",
+      "passengers": "500",
+      "cargoCapacity": "2000000",
+      "consumables": "Live food tanks",
+      "vehicleClass": "sail barge",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/"
+      ],
+      "created": "2014-12-18T11:44:14.217",
+      "edited": "2014-12-20T22:30:21.684",
+      "url": "https://swapi.dev/api/vehicles/24/"
+    },
+    {
+      "name": "TIE bomber",
+      "model": "TIE/sa bomber",
+      "manufacturer": "Sienar Fleet Systems",
+      "costInCredits": "unknown",
+      "length": "7.8",
+      "maxAtmospheringSpeed": "850",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "none",
+      "consumables": "2 days",
+      "vehicleClass": "space/planetary bomber",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:33:15.838",
+      "edited": "2014-12-20T22:30:21.675",
+      "url": "https://swapi.dev/api/vehicles/16/"
+    },
+    {
+      "name": "AT-AT",
+      "model": "All Terrain Armored Transport",
+      "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+      "costInCredits": "unknown",
+      "length": "20",
+      "maxAtmospheringSpeed": "60",
+      "crew": "5",
+      "passengers": "40",
+      "cargoCapacity": "1000",
+      "consumables": "unknown",
+      "vehicleClass": "assault walker",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:38:25.937",
+      "edited": "2014-12-20T22:30:21.677",
+      "url": "https://swapi.dev/api/vehicles/18/"
+    },
+    {
+      "name": "TIE/IN interceptor",
+      "model": "Twin Ion Engine Interceptor",
+      "manufacturer": "Sienar Fleet Systems",
+      "costInCredits": "unknown",
+      "length": "9.6",
+      "maxAtmospheringSpeed": "1250",
+      "crew": "1",
+      "passengers": "0",
+      "cargoCapacity": "75",
+      "consumables": "2 days",
+      "vehicleClass": "starfighter",
+      "pilots": [],
+      "films": [
+        "https://swapi.dev/api/films/3/"
+      ],
+      "created": "2014-12-18T11:50:28.225",
+      "edited": "2014-12-20T22:30:21.691",
+      "url": "https://swapi.dev/api/vehicles/26/"
+    },
+    {
+      "name": "Imperial Speeder Bike",
+      "model": "74-Z speeder bike",
+      "manufacturer": "Aratech Repulsor Company",
+      "costInCredits": "8000",
+      "length": "3",
+      "maxAtmospheringSpeed": "360",
+      "crew": "1",
+      "passengers": "1",
+      "cargoCapacity": "4",
+      "consumables": "1 day",
+      "vehicleClass": "speeder",
+      "pilots": [
+        "https://swapi.dev/api/people/5/",
+        "https://swapi.dev/api/people/1/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/3/"
+      ],
+      "created": "2014-12-18T12:20:04.625",
+      "edited": "2014-12-20T22:30:21.693",
+      "url": "https://swapi.dev/api/vehicles/30/"
+    },
+    {
+      "name": "AT-ST",
+      "model": "All Terrain Scout Transport",
+      "manufacturer": "Kuat Drive Yards, Imperial Department of Military Research",
+      "costInCredits": "unknown",
+      "length": "2",
+      "maxAtmospheringSpeed": "90",
+      "crew": "2",
+      "passengers": "0",
+      "cargoCapacity": "200",
+      "consumables": "none",
+      "vehicleClass": "walker",
+      "pilots": [
+        "https://swapi.dev/api/people/13/"
+      ],
+      "films": [
+        "https://swapi.dev/api/films/3/",
+        "https://swapi.dev/api/films/2/"
+      ],
+      "created": "2014-12-15T13:46:42.384",
+      "edited": "2014-12-20T22:30:21.679",
+      "url": "https://swapi.dev/api/vehicles/19/"
+    }
+  ]
+}
